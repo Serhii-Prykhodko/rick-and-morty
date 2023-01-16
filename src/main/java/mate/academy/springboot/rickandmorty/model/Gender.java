@@ -11,3 +11,4 @@ package mate.academy.springboot.rickandmorty.model;
         this.value = value;
     }
 }
+
